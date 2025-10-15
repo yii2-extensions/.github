@@ -2,7 +2,7 @@
 
 🚀 **Modern extensions, packages and tools for Yii2.**
 
-Welcome to the official **Yii2 Extensions** organization a collection of open source packages built to extend and modernize the Yii 2.x ecosystem.
+Welcome to the official **Yii2 Extensions** organization, a collection of open-source packages built to extend and modernize the Yii 2.x ecosystem.
 
 We aim to bring PSR compatibility, performance improvements, and clean code practices to the framework we love.
 
