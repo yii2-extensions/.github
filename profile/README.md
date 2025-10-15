@@ -2,7 +2,7 @@
 
 🚀 **Modern extensions, packages and tools for Yii2.**
 
-Welcome to the official **Yii2 Extensions** organization a collection of open source packages built to extend and modernize the Yii 2.x ecosystem. 
+Welcome to the official **Yii2 Extensions** organization, a collection of open-source packages built to extend and modernize the Yii 2.x ecosystem.
 
 We aim to bring PSR compatibility, performance improvements, and clean code practices to the framework we love.
 
@@ -23,13 +23,13 @@ Our goal is to make Yii2 a maintainable.
 
 ## 📦 Featured Packages
 
-| Package | Description | Packagist |
-|----------|--------------|-----------|
-| [app-basic](https://github.com/yii2-extensions/app-basic) | A modern, Bootstrap5 powered Yii2 application template for rapid development. | [View →](https://packagist.org/packages/yii2-extensions/app-basic) |
-| [psr-bridge](https://github.com/yii2-extensions/psr-bridge) | Transform your Yii2 applications into high-performance, PSR-compliant powerhouses. | [View →](https://packagist.org/packages/yii2-extensions/psr-bridge) |
-| [franken-php](https://github.com/yii2-extensions/franken-php) | Supercharge your Yii2 applications with FrankenPHP blazing-fast HTTP server. | [View →](https://packagist.org/packages/yii2-extensions/franken-php) |
-| [road-runner](https://github.com/yii2-extensions/road-runner) | Supercharge your Yii2 applications with RoadRunner blazing-fast HTTP server. | [View →](https://packagist.org/packages/yii2-extensions/road-runner) |
-| [phpstan](https://github.com/yii2-extensions/phpstan) | Enhanced static analysis for Yii2 applications with PHPStan. | [View →](https://packagist.org/packages/yii2-extensions/phpstan) |
+| Package                                                       | Description                                                                        | Packagist                                                            |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| [app-basic](https://github.com/yii2-extensions/app-basic)     | A modern, Bootstrap5 powered Yii2 application template for rapid development.      | [View →](https://packagist.org/packages/yii2-extensions/app-basic)   |
+| [psr-bridge](https://github.com/yii2-extensions/psr-bridge)   | Transform your Yii2 applications into high-performance, PSR-compliant powerhouses. | [View →](https://packagist.org/packages/yii2-extensions/psr-bridge)  |
+| [franken-php](https://github.com/yii2-extensions/franken-php) | Supercharge your Yii2 applications with FrankenPHP blazing-fast HTTP server.       | [View →](https://packagist.org/packages/yii2-extensions/franken-php) |
+| [road-runner](https://github.com/yii2-extensions/road-runner) | Supercharge your Yii2 applications with RoadRunner blazing-fast HTTP server.       | [View →](https://packagist.org/packages/yii2-extensions/road-runner) |
+| [phpstan](https://github.com/yii2-extensions/phpstan)         | Enhanced static analysis for Yii2 applications with PHPStan.                       | [View →](https://packagist.org/packages/yii2-extensions/phpstan)     |
 
 👉 See all packages in our [Packagist organization](https://packagist.org/packages/yii2-extensions/).
 
@@ -39,18 +39,19 @@ Our goal is to make Yii2 a maintainable.
 
 This project is proudly maintained by the **Yii2 Extensions Team**, led by:
 
-- **[terabytesoftw](https://github.com/terabytesoftw)**: Core contributor to the Yii ecosystem and maintainer of open-source PHP packages under the [php-forge](https://github.com/php-forge) organization.
-- **[mtangoo](https://github.com/mtangoo)**: Dedicated core contributor to the Yii ecosystem, actively supporting this project and related initiatives.
+- **[terabytesoftw](https://github.com/terabytesoftw)**: Core team member of the Yii ecosystem, maintaining open-source PHP packages under the [php-forge](https://github.com/php-forge) organization.
+- **[mtangoo](https://github.com/mtangoo)**: Core contributor to the Yii ecosystem, driving development and support for this project and related initiatives.
 
 ---
 
 ## 🤝 Contributing
 
-We welcome contributions!  
+We welcome contributions!
 
 If you use Yii2 in production or want to help keep the ecosystem modern and clean, check out our [contributing guide](./CONTRIBUTING.md) (coming soon).
 
 You can contribute by:
+
 - Submitting PRs or bug fixes.
 - Reporting issues and suggesting features.
 - Sharing or sponsoring the project.
