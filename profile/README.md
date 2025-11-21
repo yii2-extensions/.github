@@ -15,11 +15,11 @@
 
 ### [App Basic](https://github.com/yii2-extensions/app-basic) A project template rewritten and modernized using Bootstrap 5, Docker, and 2025 best practices.
 
-  * *Keywords: Yii2 App Basic, Bootstrap 5, Docker, Modern PHP*
+* *Keywords: Yii2 App Basic, Bootstrap 5, Docker, Modern PHP*
 
 ### [PHPStan Integration](https://github.com/yii2-extensions/phpstan) Seamless integration of PHPStan static analysis into your Yii2 projects.
 
-  * *Keywords: Yii2 PHPStan, Static Analysis, Code Quality*
+* *Keywords: Yii2 PHPStan, Static Analysis, Code Quality*
 
 ### [FrankenPHP Integration](https://github.com/yii2-extensions/franken-php)
 
@@ -29,7 +29,7 @@ Supercharge your application with the modern PHP app server written in Go.
 
 ### [Road Runner Integration](https://github.com/yii2-extensions/road-runner) High-performance PHP application server, load balancer, and process manager integration.
 
-  * *Keywords: Yii2 RoadRunner, Async PHP, High Performance*
+* *Keywords: Yii2 RoadRunner, Async PHP, High Performance*
 
 ## 🤝 Community & Support
 
