@@ -33,7 +33,7 @@ Supercharge your application with the modern PHP app server written in Go.
 
 ## 🤝 Community & Support
 
-This project is part of the **[yii2-framework](https://github.com/yii2-framework)** community, maintained by [@terabytesoftw](https://github.com/terabytesoftw).
+This project is part of the **[yii2-framework](https://github.com/yii2-framework)** community, maintained by [mtangoo](https://github.com/mtangoo) and [@terabytesoftw](https://github.com/terabytesoftw).
 
 * **Need help?** Open a discussion in the repositories.
 * **Want to contribute?** Submit a PR.
