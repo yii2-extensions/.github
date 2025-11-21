@@ -1,87 +1,32 @@
-# Yii2 Extensions
+# Yii2 Extensions: High-Performance PHP
 
-🚀 **Modern extensions, packages and tools for Yii2.**
+> [!IMPORTANT]
+> **Modernize your legacy. Scale without rewriting.**
 
-Welcome to the official **Yii2 Extensions** organization, a collection of open-source packages built to extend and modernize the Yii 2.x ecosystem.
+**Yii2 Extensions** is the premier source for enterprise-grade packages, **PSR compliance**, and tools designed to bridge([https://github.com/yiisoft/yii2](https://github.com/yiisoft/yii2)) with the modern PHP ecosystem.
 
-We aim to bring PSR compatibility, performance improvements, and clean code practices to the framework we love.
+## 🌟 Key Features
 
----
-
-## 🧩 About
-
-Yii2 Extensions provides community driven packages designed for **real-world Yii2 applications**, focusing on:
-
-- ✅ **PSR-7 / PSR-17 compatibility** for modern PHP interoperability.
-- ⚡ **Performance-oriented tools** to extend Yii2 without legacy overhead.
-- 🧱 **Composable libraries** that follow modern PHP standards.
-- 💡 **Seamless integration** with frameworks, middleware, and modern JS stacks.
-
-Our goal is to make Yii2 a maintainable.
-
----
+  * **✅ PSR-7 / PSR-17 Compatibility:** Full interoperability with modern middleware.
+  * **🚀 Async Runtime:** Native support for application servers like **RoadRunner** and **FrankenPHP**.
+  * **🛡️ Static Analysis:** First-class support for **PHPStan** (Level 9).
 
 ## 📦 Featured Packages
 
-| Package                                                       | Description                                                                        | Packagist                                                            |
-| ------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [app-basic](https://github.com/yii2-extensions/app-basic)     | A modern, Bootstrap5 powered Yii2 application template for rapid development.      | [View →](https://packagist.org/packages/yii2-extensions/app-basic)   |
-| [psr-bridge](https://github.com/yii2-extensions/psr-bridge)   | Transform your Yii2 applications into high-performance, PSR-compliant powerhouses. | [View →](https://packagist.org/packages/yii2-extensions/psr-bridge)  |
-| [franken-php](https://github.com/yii2-extensions/franken-php) | Supercharge your Yii2 applications with FrankenPHP blazing-fast HTTP server.       | [View →](https://packagist.org/packages/yii2-extensions/franken-php) |
-| [road-runner](https://github.com/yii2-extensions/road-runner) | Supercharge your Yii2 applications with RoadRunner blazing-fast HTTP server.       | [View →](https://packagist.org/packages/yii2-extensions/road-runner) |
-| [phpstan](https://github.com/yii2-extensions/phpstan)         | Enhanced static analysis for Yii2 applications with PHPStan.                       | [View →](https://packagist.org/packages/yii2-extensions/phpstan)     |
+### [App Basic](https://github.com/yii2-extensions/app-basic) A project template rewritten and modernized using Bootstrap 5, Docker, and 2025 best practices.
 
-👉 See all packages in our [Packagist organization](https://packagist.org/packages/yii2-extensions/).
+### [FrankenPHP Integration](https://github.com/yii2-extensions/franken-php)
 
----
+Supercharge your application with the modern PHP app server written in Go.
 
-## 🧑‍💻 Maintainers
+  * *Keywords: Yii2 FrankenPHP, Async PHP, High Performance*
 
-This project is proudly maintained by the **Yii2 Extensions Team**, led by:
+### [Road Runner Integration](https://github.com/yii2-extensions/road-runner) High-performance PHP application server, load balancer, and process manager integration.
 
-- **[terabytesoftw](https://github.com/terabytesoftw)**: Core team member of the Yii ecosystem, maintaining open-source PHP packages under the [php-forge](https://github.com/php-forge) organization.
-- **[mtangoo](https://github.com/mtangoo)**: Core contributor to the Yii ecosystem, driving development and support for this project and related initiatives.
+## 🤝 Community & Support
 
----
+This project is part of the **([https://github.com/yii2-framework](https://github.com/yii2-framework))** maintained by [@terabytesoftw](https://github.com/terabytesoftw).
 
-## 🤝 Contributing
-
-We welcome contributions!
-
-If you use Yii2 in production or want to help keep the ecosystem modern and clean, check out our [contributing guide](./CONTRIBUTING.md) (coming soon).
-
-You can contribute by:
-
-- Submitting PRs or bug fixes.
-- Reporting issues and suggesting features.
-- Sharing or sponsoring the project.
-
----
-
-## ❤️ Support & Sponsorship
-
-If our work helps your business or saves you time, consider supporting development.
-
-### GitHub Sponsors
-
-> [!Note]
-> Enable sustainable open source development.  
-> [👉 Sponsor on GitHub](https://github.com/sponsors/terabytesoftw)
-
----
-
-## 🌍 Community
-
-- 💬 [Discussions](https://github.com/orgs/yii2-extensions/discussions)
-- 🐘 [Packagist: yii2-extensions](https://packagist.org/packages/yii2-extensions/)
-- 🧠 [Yii Framework Community](https://www.yiiframework.com/community)
-
----
-
-## 📄 License
-
-All Yii2 Extensions packages are released under the **BSD-3-Clause** free to use, modify, and distribute.
-
----
-
-> _Keeping Yii2 alive and modern one extension at a time._
+  * **Need help?** Open a discussion in the repositories.
+  * **Want to contribute?** Submit a PR.
+  * **Value this work?** ([https://github.com/sponsors/terabytesoftw](https://github.com/sponsors/terabytesoftw)).
