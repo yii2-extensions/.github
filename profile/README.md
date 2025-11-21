@@ -37,4 +37,11 @@ This project is part of the **[yii2-framework](https://github.com/yii2-framework
 
 * **Need help?** Open a discussion in the repositories.
 * **Want to contribute?** Submit a PR.
-* **Value this work?** [Sponsor @terabytesoftw](https://github.com/sponsors/terabytesoftw).
+
+-----
+
+<div align="center">
+  <a href="https://github.com/sponsors/terabytesoftw"> 
+    <img src="https://img.shields.io/badge/Sponsor-Click%20Here-pink?style=for-the-badge&logo=github-sponsors" alt="Sponsor Yii2 Extensions on GitHub" height="40" />
+  </a>
+</div>  
