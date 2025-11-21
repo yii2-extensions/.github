@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > **Modernize your legacy. Scale without rewriting.**
 
-**Yii2 Extensions** is the premier source for enterprise-grade packages, **PSR compliance**, and tools designed to bridge([https://github.com/yiisoft/yii2](https://github.com/yiisoft/yii2)) with the modern PHP ecosystem.
+**Yii2 Extensions** is the premier source for enterprise-grade packages, **PSR compliance**, and tools designed to bridge [Yii2](https://github.com/yiisoft/yii2) with the modern PHP ecosystem.
 
 ## 🌟 Key Features
 
@@ -33,8 +33,8 @@ Supercharge your application with the modern PHP app server written in Go.
 
 ## 🤝 Community & Support
 
-This project is part of the **([https://github.com/yii2-framework](https://github.com/yii2-framework))** maintained by [@terabytesoftw](https://github.com/terabytesoftw).
+This project is part of the **[yii2-framework](https://github.com/yii2-framework)** community, maintained by [@terabytesoftw](https://github.com/terabytesoftw).
 
   * **Need help?** Open a discussion in the repositories.
   * **Want to contribute?** Submit a PR.
-  * **Value this work?** ([https://github.com/sponsors/terabytesoftw](https://github.com/sponsors/terabytesoftw)).
+  * **Value this work?** [Sponsor @terabytesoftw](https://github.com/sponsors/terabytesoftw).
