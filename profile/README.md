@@ -7,9 +7,9 @@
 
 ## 🌟 Key Features
 
-  * **✅ PSR-7 / PSR-17 Compatibility:** Full interoperability with modern middleware.
-  * **🚀 Async Runtime:** Native support for application servers like **RoadRunner** and **FrankenPHP**.
-  * **🛡️ Static Analysis:** First-class support for **PHPStan** (Level 9).
+* **✅ PSR-7 / PSR-17 Compatibility:** Full interoperability with modern middleware.
+* **🚀 Async Runtime:** Native support for application servers like **RoadRunner** and **FrankenPHP**.
+* **🛡️ Static Analysis:** First-class support for **PHPStan** (Level 9).
 
 ## 📦 Featured Packages
 
@@ -25,7 +25,7 @@
 
 Supercharge your application with the modern PHP app server written in Go.
 
-  * *Keywords: Yii2 FrankenPHP, Async PHP, High Performance*
+* *Keywords: Yii2 FrankenPHP, Async PHP, High Performance*
 
 ### [Road Runner Integration](https://github.com/yii2-extensions/road-runner) High-performance PHP application server, load balancer, and process manager integration.
 
@@ -35,6 +35,6 @@ Supercharge your application with the modern PHP app server written in Go.
 
 This project is part of the **[yii2-framework](https://github.com/yii2-framework)** community, maintained by [@terabytesoftw](https://github.com/terabytesoftw).
 
-  * **Need help?** Open a discussion in the repositories.
-  * **Want to contribute?** Submit a PR.
-  * **Value this work?** [Sponsor @terabytesoftw](https://github.com/sponsors/terabytesoftw).
+* **Need help?** Open a discussion in the repositories.
+* **Want to contribute?** Submit a PR.
+* **Value this work?** [Sponsor @terabytesoftw](https://github.com/sponsors/terabytesoftw).
