@@ -13,11 +13,11 @@
 
 ## 📦 Featured Packages
 
-### [App Basic](https://github.com/yii2-extensions/app-basic) A project template rewritten and modernized using Bootstrap 5, Docker, and 2025 best practices.
+### [App Basic](https://github.com/yii2-extensions/app-basic) A project template rewritten and modernized using Bootstrap 5, Docker, and 2025 best practices
 
 - _Keywords: Yii2 App Basic, Bootstrap 5, Docker, Modern PHP_
 
-### [PHPStan Integration](https://github.com/yii2-extensions/phpstan) Seamless integration of PHPStan static analysis into your Yii2 projects.
+### [PHPStan Integration](https://github.com/yii2-extensions/phpstan) Seamless integration of PHPStan static analysis into your Yii2 projects
 
 - _Keywords: Yii2 PHPStan, Static Analysis, Code Quality_
 
@@ -27,7 +27,7 @@ Supercharge your application with the modern PHP app server written in Go.
 
 - _Keywords: Yii2 FrankenPHP, Async PHP, High Performance_
 
-### [Road Runner Integration](https://github.com/yii2-extensions/road-runner) High-performance PHP application server, load balancer, and process manager integration.
+### [Road Runner Integration](https://github.com/yii2-extensions/road-runner) High-performance PHP application server, load balancer, and process manager integration
 
 - _Keywords: Yii2 RoadRunner, Async PHP, High Performance_
 
@@ -41,7 +41,7 @@ This project is part of the **[yii2-framework](https://github.com/yii2-framework
 ---
 
 <div align="center">
-  <a href="https://github.com/sponsors/terabytesoftw"> 
+  <a href="https://github.com/sponsors/terabytesoftw">
     <img src="https://img.shields.io/badge/Sponsor-Click%20Here-pink?style=for-the-badge&logo=github-sponsors" height="40" alt="Sponsor on GitHub"/>
   </a>
 </div>
