@@ -7,41 +7,41 @@
 
 ## 🌟 Key Features
 
-* **✅ PSR-7 / PSR-17 Compatibility:** Full interoperability with modern middleware.
-* **🚀 Async Runtime:** Native support for application servers like **RoadRunner** and **FrankenPHP**.
-* **🛡️ Static Analysis:** First-class support for **PHPStan** (Level 9).
+- **✅ PSR-7 / PSR-17 Compatibility:** Full interoperability with modern middleware.
+- **🚀 Async Runtime:** Native support for application servers like **RoadRunner** and **FrankenPHP**.
+- **🛡️ Static Analysis:** First-class support for **PHPStan** (Level 9).
 
 ## 📦 Featured Packages
 
-### [App Basic](https://github.com/yii2-extensions/app-basic) A project template rewritten and modernized using Bootstrap 5, Docker, and 2025 best practices.
+### [App Basic](https://github.com/yii2-extensions/app-basic) A project template rewritten and modernized using Bootstrap 5, Docker, and 2025 best practices
 
-* *Keywords: Yii2 App Basic, Bootstrap 5, Docker, Modern PHP*
+- _Keywords: Yii2 App Basic, Bootstrap 5, Docker, Modern PHP_
 
-### [PHPStan Integration](https://github.com/yii2-extensions/phpstan) Seamless integration of PHPStan static analysis into your Yii2 projects.
+### [PHPStan Integration](https://github.com/yii2-extensions/phpstan) Seamless integration of PHPStan static analysis into your Yii2 projects
 
-* *Keywords: Yii2 PHPStan, Static Analysis, Code Quality*
+- _Keywords: Yii2 PHPStan, Static Analysis, Code Quality_
 
 ### [FrankenPHP Integration](https://github.com/yii2-extensions/franken-php)
 
 Supercharge your application with the modern PHP app server written in Go.
 
-* *Keywords: Yii2 FrankenPHP, Async PHP, High Performance*
+- _Keywords: Yii2 FrankenPHP, Async PHP, High Performance_
 
-### [Road Runner Integration](https://github.com/yii2-extensions/road-runner) High-performance PHP application server, load balancer, and process manager integration.
+### [Road Runner Integration](https://github.com/yii2-extensions/road-runner) High-performance PHP application server, load balancer, and process manager integration
 
-* *Keywords: Yii2 RoadRunner, Async PHP, High Performance*
+- _Keywords: Yii2 RoadRunner, Async PHP, High Performance_
 
 ## 🤝 Community & Support
 
 This project is part of the **[yii2-framework](https://github.com/yii2-framework)** community, maintained by [mtangoo](https://github.com/mtangoo) and [@terabytesoftw](https://github.com/terabytesoftw).
 
-* **Need help?** Open a discussion in the repositories.
-* **Want to contribute?** Submit a PR.
+- **Need help?** Open a discussion in the repositories.
+- **Want to contribute?** Submit a PR.
 
------
+---
 
 <div align="center">
-  <a href="https://github.com/sponsors/terabytesoftw"> 
-    <img src="https://img.shields.io/badge/Sponsor-Click%20Here-pink?style=for-the-badge&logo=github-sponsors" alt="Sponsor Yii2 Extensions on GitHub" height="40" />
+  <a href="https://github.com/sponsors/terabytesoftw">
+    <img src="https://img.shields.io/badge/Sponsor-Click%20Here-pink?style=for-the-badge&logo=github-sponsors" height="40" alt="Sponsor on GitHub"/>
   </a>
-</div>  
+</div>
