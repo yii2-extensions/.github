@@ -8,12 +8,12 @@
 
 ## Package Documentation
 
-| Package         | Repository                                                                |
-| --------------- | ------------------------------------------------------------------------- |
+| Package         | Repository                                                             |
+| --------------- | ---------------------------------------------------------------------- |
 | coding-standard | [/coding-standard](https://github.com/yii2-extensions/coding-standard) |
-| foxy            | [yii2-extensions/foxy](https://github.com/yii2-extensions/foxy)                       |
-| helper          | [yii2-extensions/helper](https://github.com/yii2-extensions/helper)                   |
-| support         | [yii2-extensions/support](https://github.com/yii2-extensions/support)                 |
+| foxy            | [yii2-extensions/foxy](https://github.com/yii2-extensions/foxy)        |
+| helper          | [yii2-extensions/helper](https://github.com/yii2-extensions/helper)    |
+| support         | [yii2-extensions/support](https://github.com/yii2-extensions/support)  |
 
 ## Commercial Support
 
