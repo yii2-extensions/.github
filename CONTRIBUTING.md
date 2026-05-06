@@ -1,4 +1,4 @@
-# Contributing to PHP Forge
+# Contributing to ui-awesome
 
 Thank you for your interest in contributing. Please read this guide before submitting issues or pull requests.
 
@@ -14,10 +14,10 @@ By participating in this project, you agree to abide by the [Code of Conduct](CO
 **Setup:**
 
 ```bash
-git clone https://github.com/yii2-extensions/<package>.git
-cd <package>
+git clone https://github.com/yii2-extensions/<repository>.git
+cd <repository>
 composer install
-composer test
+composer run
 ```
 
 ## Coding Standards
@@ -27,16 +27,17 @@ All PHP code must follow these standards:
 - **PER 3.0 + PSR-12** coding style.
 - `declare(strict_types=1)` in every PHP file.
 - Strong typing: use type declarations for parameters, return types, and properties.
-- Use [yii2-extensions/coding-standard](https://github.com/yii2-extensions/coding-standard) for automated style checks.
+- Use [php-forge/coding-standard](https://github.com/php-forge/coding-standard) for automated style checks.
 
 ## Testing
 
 - All tests use **PHPUnit 12+**.
 - Target **100% code coverage** for new code.
-- Run the test suite before submitting a pull request:
+- Run the quality/test scripts defined in the target repository's `composer.json` before submitting a pull request
+  (for example, `test`, `static`, `ecs`, `rector`, or `check-dependencies`):
 
 ```bash
-composer test
+composer run
 ```
 
 ## Pull Request Process
@@ -47,11 +48,6 @@ composer test
 4. One logical change per pull request.
 5. Ensure all tests pass and coding standards are met.
 6. Open a pull request against `main` with a clear description of the change.
-
-## Bug Reports and Feature Requests
-
-- **Bug reports**: Use the [Bug Report](https://github.com/yii2-extensions/.github/issues/new?template=bug-report.yml) template.
-- **Feature requests**: Use the [Feature Request](https://github.com/yii2-extensions/.github/issues/new?template=feature-request.yml) template.
 
 ## Security Vulnerabilities
 
