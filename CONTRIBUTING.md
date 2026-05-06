@@ -1,4 +1,4 @@
-# Contributing to ui-awesome
+# Contributing to Yii2 Extensions
 
 Thank you for your interest in contributing. Please read this guide before submitting issues or pull requests.
 
