@@ -1,9 +1,9 @@
 <!-- markdownlint-disable MD041 -->
-<p align="center">
+<div align="center">
     <img src="https://raw.githubusercontent.com/yii2-extensions/.github/main/logo/yii2-extensions.png" alt="Yii2 Extensions" width="130">
     <h1 align="center">Yii2 Extensions</h1>
     <br>
-</p>
+</div>
 
 <p align="center">
     <strong>Modernize your legacy. Scale without rewriting.</strong><br>
