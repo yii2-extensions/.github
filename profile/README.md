@@ -1,47 +1,50 @@
-# Yii2 Extensions: High-Performance PHP
+<!-- markdownlint-disable MD041 -->
+<div align="center">
+    <img src="https://raw.githubusercontent.com/yii2-extensions/.github/main/logo/yii2-extensions.png" alt="Yii2 Extensions" width="130">
+    <h1 align="center">Yii2 Extensions</h1>
+    <br>
+</div>
+
+<p align="center">
+    <strong>Modernize your legacy. Scale without rewriting.</strong><br>
+    <em>Enterprise-grade packages, PSR compliance, and tools that bridge <a href="https://github.com/yiisoft/yii2">Yii2</a> with the modern PHP ecosystem.</em>
+</p>
+
+<p align="center">
+    <a href="https://x.com/Terabytesoftw"><img src="https://img.shields.io/badge/-Follow%20on%20X-1DA1F2.svg?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="Follow on X"></a>
+    <a href="https://www.facebook.com/wilmer.arambula.9"><img src="https://img.shields.io/badge/-Follow%20on%20Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000" alt="Follow on Facebook"></a>
+    <a href="https://www.reddit.com/r/Yii2/"><img src="https://img.shields.io/badge/-Join%20our%20Subreddit-FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white&labelColor=000000" alt="Join our Subreddit"></a>
+    <a href="https://t.me/yii_framework_in_english"><img src="https://img.shields.io/badge/-Join%20on%20Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Join on Telegram"></a>
+</p>
+<!-- markdownlint-enable MD041 -->
 
 > [!IMPORTANT]
-> **Modernize your legacy. Scale without rewriting.**
-
-**Yii2 Extensions** is the premier source for enterprise-grade packages, **PSR compliance**, and tools designed to bridge [Yii2](https://github.com/yiisoft/yii2) with the modern PHP ecosystem.
-
-## 🌟 Key Features
-
-- **✅ PSR-7 / PSR-17 Compatibility:** Full interoperability with modern middleware.
-- **🚀 Async Runtime:** Native support for application servers like **RoadRunner** and **FrankenPHP**.
-- **🛡️ Static Analysis:** First-class support for **PHPStan** (Level 9).
+> **Yii2 Extensions** is the premier source for high-performance, PSR-compliant packages designed to carry your Yii2
+> applications into the modern PHP era, no full rewrite required.
 
 ## 📦 Featured Packages
 
-### [App Basic](https://github.com/yii2-extensions/app-basic) A project template rewritten and modernized using Bootstrap 5, Docker, and 2025 best practices
-
-- _Keywords: Yii2 App Basic, Bootstrap 5, Docker, Modern PHP_
-
-### [PHPStan Integration](https://github.com/yii2-extensions/phpstan) Seamless integration of PHPStan static analysis into your Yii2 projects
-
-- _Keywords: Yii2 PHPStan, Static Analysis, Code Quality_
-
-### [FrankenPHP Integration](https://github.com/yii2-extensions/franken-php)
-
-Supercharge your application with the modern PHP app server written in Go.
-
-- _Keywords: Yii2 FrankenPHP, Async PHP, High Performance_
-
-### [Road Runner Integration](https://github.com/yii2-extensions/road-runner) High-performance PHP application server, load balancer, and process manager integration
-
-- _Keywords: Yii2 RoadRunner, Async PHP, High Performance_
+<picture>
+    <img src="https://raw.githubusercontent.com/yii2-extensions/.github/main/profile/svgs/featured-packages.svg" alt="Featured packages by category" width="100%">
+</picture>
 
 ## 🤝 Community & Support
 
-This project is part of the **[yii2-framework](https://github.com/yii2-framework)** community, maintained by [mtangoo](https://github.com/mtangoo) and [@terabytesoftw](https://github.com/terabytesoftw).
+This project is part of the **[yii2-framework](https://github.com/yii2-framework)** community, maintained by
+[mtangoo](https://github.com/mtangoo) and [@terabytesoftw](https://github.com/terabytesoftw). Every package is **free
+and open source**, built and maintained in the open.
 
 - **Need help?** Open a discussion in the repositories.
 - **Want to contribute?** Submit a PR.
+- **Want to support the work?** [Sponsor the project](https://github.com/sponsors/terabytesoftw) to fund maintenance,
+  new features, and documentation.
 
----
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/sponsors/terabytesoftw">
-    <img src="https://img.shields.io/badge/Sponsor-Click%20Here-pink?style=for-the-badge&logo=github-sponsors" height="40" alt="Sponsor on GitHub"/>
+    <img src="https://img.shields.io/badge/Sponsor%20this%20work-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" height="42" alt="Sponsor on GitHub">
   </a>
-</div>
+</p>
+
+<p align="center">
+  <sub>Thank you for helping keep Yii2 modern. 🙌</sub>
+</p>
