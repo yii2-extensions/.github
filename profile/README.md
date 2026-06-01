@@ -31,42 +31,90 @@
 
 ## 📦 Featured Packages
 
-| Category | Package | Description |
-| :--- | :--- | :--- |
-| ⚙️ **Runtime & PSR** | [psr-bridge](https://github.com/yii2-extensions/psr-bridge) | Transform your Yii2 applications into high-performance, PSR-compliant powerhouses. |
-| | [franken-php](https://github.com/yii2-extensions/franken-php) | Supercharge your Yii2 applications with FrankenPHP blazing-fast HTTP server. |
-| | [road-runner](https://github.com/yii2-extensions/road-runner) | Supercharge your Yii2 applications with RoadRunner blazing-fast HTTP server. |
-| ⚛️ **Inertia.js Stack** | [inertia](https://github.com/yii2-extensions/inertia) | Inertia.js server-side adapter for Yii2: page rendering, shared props, partial reloads, flash/error mapping, and asset version handling. |
-| | [inertia-react](https://github.com/yii2-extensions/inertia-react) | Inertia.js React adapter for Yii2: React Refresh preamble, Vite integration, root view, and bootstrap wiring. |
-| | [inertia-vue](https://github.com/yii2-extensions/inertia-vue) | Inertia.js Vue 3 adapter for Yii2: Vite integration, root view, and bootstrap wiring. |
-| | [app-inertia-react](https://github.com/yii2-extensions/app-inertia-react) | Reference Yii2 + Inertia.js + React 19 application: shadcn/ui, Radix, Tailwind CSS v4, Vite, and full auth flow. |
-| | [app-inertia-vue](https://github.com/yii2-extensions/app-inertia-vue) | Reference Yii2 + Inertia.js + Vue 3 application: Flowbite, Tailwind CSS v4, Vite, and full auth flow. |
-| 🛠️ **Developer Tools** | [phpstan](https://github.com/yii2-extensions/phpstan) | Enhanced static analysis for Yii2 applications: precise type inference, dynamic method resolution, and comprehensive property reflection. |
-| | [debug](https://github.com/yii2-extensions/debug) | Debug toolbar and debugger panels for Yii2: requests, logs, queries, profiling, timeline, queue, mail, events, and asset bundles. |
-| | [scaffold](https://github.com/yii2-extensions/scaffold) | Composer plugin for composable Yii2 application scaffolds: replace / preserve / append / prepend modes and sha256-tracked lock. |
-| | [template](https://github.com/yii2-extensions/template) | Extension template for Yii2 22.0: PHPUnit, PHPStan, Infection, ECS, GitHub Actions CI/CD, and Codecov out of the box. |
-| | [app-base](https://github.com/yii2-extensions/app-base) | Scaffold provider for Yii2 applications: console & web entrypoints, user authentication, RBAC, mail, and migrations. |
-| 🧩 **App Templates** | [app-basic](https://github.com/yii2-extensions/app-basic) | A modern, Bootstrap 5 powered Yii2 application template for rapid development. |
+<!-- markdownlint-disable MD041 -->
+<table>
+<thead>
+<tr>
+<th width="170">Category</th>
+<th width="150">Package</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3">⚙️ <strong>Runtime &amp; PSR</strong></td>
+<td><a href="https://github.com/yii2-extensions/psr-bridge">psr-bridge</a></td>
+<td>Transform your Yii2 applications into high-performance, PSR-compliant powerhouses.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/yii2-extensions/franken-php">franken-php</a></td>
+<td>Supercharge your Yii2 applications with FrankenPHP blazing-fast HTTP server.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/yii2-extensions/road-runner">road-runner</a></td>
+<td>Supercharge your Yii2 applications with RoadRunner blazing-fast HTTP server.</td>
+</tr>
+<tr>
+<td rowspan="3">⚛️ <strong>Inertia.js Stack</strong></td>
+<td><a href="https://github.com/yii2-extensions/inertia">inertia</a></td>
+<td>Inertia.js server-side adapter for Yii2: page rendering, shared props, partial reloads, flash/error mapping, and asset version handling.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/yii2-extensions/inertia-react">inertia-react</a></td>
+<td>Inertia.js React adapter for Yii2: React Refresh preamble, Vite integration, root view, and bootstrap wiring.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/yii2-extensions/inertia-vue">inertia-vue</a></td>
+<td>Inertia.js Vue 3 adapter for Yii2: Vite integration, root view, and bootstrap wiring.</td>
+</tr>
+<tr>
+<td rowspan="5">🛠️ <strong>Developer Tools</strong></td>
+<td><a href="https://github.com/yii2-extensions/phpstan">phpstan</a></td>
+<td>Enhanced static analysis for Yii2 applications: precise type inference, dynamic method resolution, and comprehensive property reflection.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/yii2-extensions/debug">debug</a></td>
+<td>Debug toolbar and debugger panels for Yii2: requests, logs, queries, profiling, timeline, queue, mail, events, and asset bundles.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/yii2-extensions/scaffold">scaffold</a></td>
+<td>Composer plugin for composable Yii2 application scaffolds: replace / preserve / append / prepend modes and sha256-tracked lock.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/yii2-extensions/template">template</a></td>
+<td>Extension template for Yii2 22.0: PHPUnit, PHPStan, Infection, ECS, GitHub Actions CI/CD, and Codecov out of the box.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/yii2-extensions/app-base">app-base</a></td>
+<td>Scaffold provider for Yii2 applications: console &amp; web entrypoints, user authentication, RBAC, mail, and migrations.</td>
+</tr>
+<tr>
+<td rowspan="3">🧩 <strong>App Templates</strong></td>
+<td><a href="https://github.com/yii2-extensions/app-basic">app-basic</a></td>
+<td>A modern, Bootstrap 5 powered Yii2 application template for rapid development.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/yii2-extensions/app-inertia-react">app-inertia-react</a></td>
+<td>Reference Yii2 + Inertia.js + React 19 application: shadcn/ui, Radix, Tailwind CSS v4, Vite, and full auth flow.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/yii2-extensions/app-inertia-vue">app-inertia-vue</a></td>
+<td>Reference Yii2 + Inertia.js + Vue 3 application: Flowbite, Tailwind CSS v4, Vite, and full auth flow.</td>
+</tr>
+</tbody>
+</table>
+<!-- markdownlint-enable MD041 -->
 
 ## 🤝 Community & Support
 
 This project is part of the **[yii2-framework](https://github.com/yii2-framework)** community, maintained by
-[mtangoo](https://github.com/mtangoo) and [@terabytesoftw](https://github.com/terabytesoftw).
+[mtangoo](https://github.com/mtangoo) and [@terabytesoftw](https://github.com/terabytesoftw). Every package is **free
+and open source**, built and maintained in the open.
 
 - **Need help?** Open a discussion in the repositories.
 - **Want to contribute?** Submit a PR.
-
-## 💖 Support the Project
-
-Every package here is **free and open source**, built and maintained in the open. Sponsorship is what keeps it moving:
-fixing bugs, supporting new PHP and Yii2 releases, expanding the Inertia.js stack, and writing the docs that make
-adoption painless.
-
-If these tools save you time at work, consider giving a little back. Your sponsorship directly funds:
-
-- 🔧 **Maintenance & releases:** timely fixes and compatibility with the latest PHP and Yii2 versions.
-- 🚀 **New features:** runtime adapters, frontend integrations, and developer tooling.
-- 📚 **Documentation:** guides and examples that lower the barrier to entry.
+- **Want to support the work?** [Sponsor the project](https://github.com/sponsors/terabytesoftw) to fund maintenance,
+  new features, and documentation.
 
 <p align="center">
   <a href="https://github.com/sponsors/terabytesoftw">
