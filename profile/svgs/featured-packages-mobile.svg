@@ -1,0 +1,94 @@
+<!-- Mobile version - Single column -->
+<svg viewBox="0 0 620 1028" width="100%" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+        .cat { font-weight: 700; font-size: 15px; fill: #5C9E2F; letter-spacing: 1.5px; }
+        .box-bg { fill: #eef6e8; stroke: #cfe3c0; stroke-width: 1; }
+        .title { font-weight: 700; font-size: 15px; fill: #1a202c; }
+        .content { font-size: 12px; fill: #4a5568; }
+    </style>
+
+    <!-- Runtime & PSR -->
+    <text class="cat" x="16" y="40">RUNTIME &amp; PSR</text>
+    <g>
+        <rect class="box-bg" x="16" y="52" width="588" height="60" rx="6"/>
+        <rect x="16" y="52" width="4" height="60" fill="#5C9E2F"/>
+        <text class="title" x="36" y="78">psr-bridge</text>
+        <text class="content" x="36" y="98">PSR-7 / PSR-17 bridge for Yii2</text>
+    </g>
+    <g>
+        <rect class="box-bg" x="16" y="124" width="588" height="60" rx="6"/>
+        <rect x="16" y="124" width="4" height="60" fill="#5C9E2F"/>
+        <text class="title" x="36" y="150">franken-php</text>
+        <text class="content" x="36" y="170">FrankenPHP runtime adapter</text>
+    </g>
+    <g>
+        <rect class="box-bg" x="16" y="196" width="588" height="60" rx="6"/>
+        <rect x="16" y="196" width="4" height="60" fill="#5C9E2F"/>
+        <text class="title" x="36" y="222">road-runner</text>
+        <text class="content" x="36" y="242">RoadRunner runtime adapter</text>
+    </g>
+
+    <!-- Inertia.js Stack -->
+    <text class="cat" x="16" y="292">INERTIA.JS STACK</text>
+    <g>
+        <rect class="box-bg" x="16" y="304" width="588" height="60" rx="6"/>
+        <rect x="16" y="304" width="4" height="60" fill="#5C9E2F"/>
+        <text class="title" x="36" y="330">inertia</text>
+        <text class="content" x="36" y="350">Server-side Inertia.js adapter</text>
+    </g>
+    <g>
+        <rect class="box-bg" x="16" y="376" width="588" height="60" rx="6"/>
+        <rect x="16" y="376" width="4" height="60" fill="#5C9E2F"/>
+        <text class="title" x="36" y="402">inertia-react</text>
+        <text class="content" x="36" y="422">React adapter with Vite integration</text>
+    </g>
+    <g>
+        <rect class="box-bg" x="16" y="448" width="588" height="60" rx="6"/>
+        <rect x="16" y="448" width="4" height="60" fill="#5C9E2F"/>
+        <text class="title" x="36" y="474">inertia-vue</text>
+        <text class="content" x="36" y="494">Vue 3 adapter with Vite integration</text>
+    </g>
+
+    <!-- Developer Tools -->
+    <text class="cat" x="16" y="544">DEVELOPER TOOLS</text>
+    <g>
+        <rect class="box-bg" x="16" y="556" width="588" height="60" rx="6"/>
+        <rect x="16" y="556" width="4" height="60" fill="#5C9E2F"/>
+        <text class="title" x="36" y="582">phpstan</text>
+        <text class="content" x="36" y="602">PHPStan static analysis (Level Max)</text>
+    </g>
+    <g>
+        <rect class="box-bg" x="16" y="628" width="588" height="60" rx="6"/>
+        <rect x="16" y="628" width="4" height="60" fill="#5C9E2F"/>
+        <text class="title" x="36" y="654">debug</text>
+        <text class="content" x="36" y="674">Debug toolbar and profiler panels</text>
+    </g>
+    <g>
+        <rect class="box-bg" x="16" y="700" width="588" height="60" rx="6"/>
+        <rect x="16" y="700" width="4" height="60" fill="#5C9E2F"/>
+        <text class="title" x="36" y="726">scaffold</text>
+        <text class="content" x="36" y="746">Composer scaffold plugin</text>
+    </g>
+
+    <!-- App Templates -->
+    <text class="cat" x="16" y="796">APP TEMPLATES</text>
+    <g>
+        <rect class="box-bg" x="16" y="808" width="588" height="60" rx="6"/>
+        <rect x="16" y="808" width="4" height="60" fill="#5C9E2F"/>
+        <text class="title" x="36" y="834">app-basic</text>
+        <text class="content" x="36" y="854">Bootstrap 5 starter application</text>
+    </g>
+    <g>
+        <rect class="box-bg" x="16" y="880" width="588" height="60" rx="6"/>
+        <rect x="16" y="880" width="4" height="60" fill="#5C9E2F"/>
+        <text class="title" x="36" y="906">app-inertia-react</text>
+        <text class="content" x="36" y="926">Inertia.js + React 19 reference app</text>
+    </g>
+    <g>
+        <rect class="box-bg" x="16" y="952" width="588" height="60" rx="6"/>
+        <rect x="16" y="952" width="4" height="60" fill="#5C9E2F"/>
+        <text class="title" x="36" y="978">app-inertia-vue</text>
+        <text class="content" x="36" y="998">Inertia.js + Vue 3 reference app</text>
+    </g>
+</svg>
