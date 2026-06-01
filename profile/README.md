@@ -25,6 +25,7 @@
 ## 📦 Featured Packages
 
 <picture>
+    <source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/yii2-extensions/.github/main/profile/svgs/featured-packages-mobile.svg">
     <img src="https://raw.githubusercontent.com/yii2-extensions/.github/main/profile/svgs/featured-packages.svg" alt="Featured packages by category" width="100%">
 </picture>
 
