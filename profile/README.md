@@ -22,13 +22,6 @@
 > **Yii2 Extensions** is the premier source for high-performance, PSR-compliant packages designed to carry your Yii2
 > applications into the modern PHP era, no full rewrite required.
 
-## 📦 Featured Packages
-
-<picture>
-    <source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/yii2-extensions/.github/main/profile/svgs/featured-packages-mobile.svg">
-    <img src="https://raw.githubusercontent.com/yii2-extensions/.github/main/profile/svgs/featured-packages.svg" alt="Featured packages by category" width="100%">
-</picture>
-
 ## 🤝 Community & Support
 
 This project is part of the **[yii2-framework](https://github.com/yii2-framework)** community, maintained by
