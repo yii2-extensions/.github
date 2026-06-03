@@ -1,14 +1,7 @@
 <!-- markdownlint-disable MD041 -->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/yii2-extensions/.github/main/logo/yii2-extensions.png" alt="Yii2 Extensions" width="130">
-    <h1 align="center">Yii2 Extensions</h1>
-    <br>
+    <img src="https://raw.githubusercontent.com/yii2-extensions/.github/main/logo/profile.png" alt="Yii2 Extensions - Modernize your legacy. Scale without rewriting." width="830">
 </div>
-
-<p align="center">
-    <strong>Modernize your legacy. Scale without rewriting.</strong><br>
-    <em>Enterprise-grade packages, PSR compliance, and tools that bridge <a href="https://github.com/yiisoft/yii2">Yii2</a> with the modern PHP ecosystem.</em>
-</p>
 
 <p align="center">
     <a href="https://x.com/Terabytesoftw"><img src="https://img.shields.io/badge/-Follow%20on%20X-1DA1F2.svg?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="Follow on X"></a>
