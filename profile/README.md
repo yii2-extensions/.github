@@ -1,19 +1,19 @@
 <!-- markdownlint-disable MD041 -->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/yii2-extensions/.github/main/logo/profile.png" alt="Yii2 Extensions - Modernize your legacy. Scale without rewriting." width="830">
+    <img src="https://raw.githubusercontent.com/yii2-extensions/.github/main/logo/profile.webp" alt="Yii2 Extensions - Modernize your legacy. Scale without rewriting." width="830">
 </div>
-
-<p align="center">
-    <a href="https://x.com/Terabytesoftw"><img src="https://img.shields.io/badge/-Follow%20on%20X-1DA1F2.svg?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="Follow on X"></a>
-    <a href="https://www.facebook.com/wilmer.arambula.9"><img src="https://img.shields.io/badge/-Follow%20on%20Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000" alt="Follow on Facebook"></a>
-    <a href="https://www.reddit.com/r/Yii2/"><img src="https://img.shields.io/badge/-Join%20our%20Subreddit-FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white&labelColor=000000" alt="Join our Subreddit"></a>
-    <a href="https://t.me/yii_framework_in_english"><img src="https://img.shields.io/badge/-Join%20on%20Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Join on Telegram"></a>
-</p>
 <!-- markdownlint-enable MD041 -->
 
 > [!IMPORTANT]
 > **Yii2 Extensions** is the premier source for high-performance, PSR-compliant packages designed to carry your Yii2
 > applications into the modern PHP era, no full rewrite required.
+
+## 🌐 Our social networks
+
+[![Follow on X](https://img.shields.io/badge/-Follow%20on%20X-1DA1F2.svg?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/Terabytesoftw)
+[![Follow on Facebook](https://img.shields.io/badge/-Follow%20on%20Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000)](https://www.facebook.com/wilmer.arambula.9)
+[![Join our Subreddit](https://img.shields.io/badge/-Join%20our%20Subreddit-FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white&labelColor=000000)](https://www.reddit.com/r/Yii2/)
+[![Join on Telegram](https://img.shields.io/badge/-Join%20on%20Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/yii_framework_in_english)
 
 ## 🤝 Community & Support
 
