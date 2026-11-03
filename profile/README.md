@@ -1,37 +1,38 @@
-<!-- markdownlint-disable MD041 -->
-<div align="center">
-    <img src="https://raw.githubusercontent.com/yii2-extensions/.github/main/logo/profile.webp" alt="Yii2 Extensions - Modernize your legacy. Scale without rewriting." width="830">
-</div>
-<!-- markdownlint-enable MD041 -->
+# yii2-extensions
 
-> [!IMPORTANT]
-> **Yii2 Extensions** is the premier source for high-performance, PSR-compliant packages designed to carry your Yii2
-> applications into the modern PHP era, no full rewrite required.
+Integrations for Yii2 applications: static analysis, HTTP runtimes, and PSR-7 request handling.
 
-## 🌐 Our social networks
+Choose the integration for the part of your application you want to work on, from type analysis to the HTTP request lifecycle.
 
-[![Follow on X](https://img.shields.io/badge/-Follow%20on%20X-1DA1F2.svg?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/Terabytesoftw)
-[![Follow on Facebook](https://img.shields.io/badge/-Follow%20on%20Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000)](https://www.facebook.com/wilmer.arambula.9)
-[![Join our Subreddit](https://img.shields.io/badge/-Join%20our%20Subreddit-FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white&labelColor=000000)](https://www.reddit.com/r/Yii2/)
-[![Join on Telegram](https://img.shields.io/badge/-Join%20on%20Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/yii_framework_in_english)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yii2-extensions/.github/main/profile/assets/yii2-extensions-cover-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yii2-extensions/.github/main/profile/assets/yii2-extensions-cover-light.png">
+  <img src="https://raw.githubusercontent.com/yii2-extensions/.github/main/profile/assets/yii2-extensions-cover-light.png" alt="" width="1280">
+</picture>
 
-## 🤝 Community & Support
+## Start with a package
 
-This project is part of the **[yii2-framework](https://github.com/yii2-framework)** community, maintained by
-[mtangoo](https://github.com/mtangoo) and [@terabytesoftw](https://github.com/terabytesoftw). Every package is **free
-and open source**, built and maintained in the open.
+- [phpstan](https://github.com/yii2-extensions/phpstan) — Add Yii2-specific type information to PHPStan analysis.
+- [franken-php](https://github.com/yii2-extensions/franken-php) — Integrate Yii2 applications with FrankenPHP.
+- [road-runner](https://github.com/yii2-extensions/road-runner) — Integrate Yii2 applications with RoadRunner workers.
+- [psr-bridge](https://github.com/yii2-extensions/psr-bridge) — Connect Yii2 request handling with PSR-7 requests and responses.
 
-- **Need help?** Open a discussion in the repositories.
-- **Want to contribute?** Submit a PR.
-- **Want to support the work?** [Sponsor the project](https://github.com/sponsors/terabytesoftw) to fund maintenance,
-  new features, and documentation.
+Read each repository's installation and compatibility notes before choosing a version.
 
-<p align="center">
-  <a href="https://github.com/sponsors/terabytesoftw">
-    <img src="https://img.shields.io/badge/Sponsor%20this%20work-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" height="42" alt="Sponsor on GitHub">
-  </a>
-</p>
+## Documentation and contribution
 
-<p align="center">
-  <sub>Thank you for helping keep Yii2 modern. 🙌</sub>
-</p>
+Start with the package READMEs above, or explore the [independent documentation portal](https://yii2-framework.github.io/docs/).
+
+For questions and ideas, use the [organization Discussions](https://github.com/orgs/yii2-extensions/discussions).
+
+Read the [contribution guide](https://github.com/yii2-extensions/.github/blob/main/CONTRIBUTING.md) before proposing a change. For security concerns, follow the [security policy](https://github.com/yii2-extensions/.github/blob/main/SECURITY.md).
+
+## Related projects
+
+Explore [php-forge](https://github.com/php-forge), [ui-awesome](https://github.com/ui-awesome), [yii2-framework](https://github.com/yii2-framework), and [yii3](https://github.com/yii3).
+
+These are independent project collections. They and the documentation portal are not official Yii resources. For upstream Yii, visit [yiisoft](https://github.com/yiisoft).
+
+## Support this work
+
+If this work is useful to you, consider [sponsoring @terabytesoftw on GitHub](https://github.com/sponsors/terabytesoftw).
