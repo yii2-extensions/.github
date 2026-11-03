@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD013 -->
+
 # yii2-extensions cover provenance
 
 `yii2-extensions-cover-light.png` and `yii2-extensions-cover-dark.png` are 1280×360 opaque profile covers for light and dark themes. They are not avatar uploads or repository social previews. The earlier `yii2-extensions-cover.png` remains in the working tree as an unused draft.
@@ -14,7 +16,10 @@ This organization is separate from the official Yii project. Use of the emblem d
 
 Typography uses unmodified Noto Sans, © The Noto Project Authors, under the [SIL Open Font License 1.1](https://openfontlicense.org/). No font binary is included here.
 
-The cover is unlinked and decorative. Native profile text carries the organization name, scope, independent status and sponsor link; empty alt text avoids repeating that information. The image has no funding-allocation, compatibility, performance or coverage claim.
+The cover is unlinked and serves as the profile H1. Its alternative text carries
+the organization name; native profile text carries the scope, independent
+status and sponsor link. The image has no funding-allocation, compatibility,
+performance or coverage claim.
 
 Cover SHA-256: `8cf619777fd2dc10f837ce4594a276b67816e31f85d1f9d0a1bbdae6fb8b8236`.
 
