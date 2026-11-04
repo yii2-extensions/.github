@@ -13,7 +13,9 @@ request handling.
 
 Choose the integration for the part of your application you want to work on,
 from type analysis to the HTTP request lifecycle. Read each repository's
-installation and compatibility notes before choosing a version.
+installation and compatibility notes before choosing a version. This
+organization is independent of the official Yii project at
+[yiisoft](https://github.com/yiisoft).
 
 ## Documentation and contribution
 
@@ -27,17 +29,6 @@ Read the
 [contribution guide](https://github.com/yii2-extensions/.github/blob/main/CONTRIBUTING.md)
 before proposing a change. For security concerns, follow the
 [security policy](https://github.com/yii2-extensions/.github/blob/main/SECURITY.md).
-
-## Related projects
-
-Explore [php-forge](https://github.com/php-forge),
-[ui-awesome](https://github.com/ui-awesome),
-[yii2-framework](https://github.com/yii2-framework), and
-[yii3](https://github.com/yii3).
-
-These are independent project collections. They and the documentation portal
-are not official Yii resources. For upstream Yii, visit
-[yiisoft](https://github.com/yiisoft).
 
 ## Support this work
 
